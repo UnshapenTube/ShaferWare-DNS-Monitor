@@ -1,0 +1,71 @@
+name: Bug report
+description: Something in DNS Monitor isn't working
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! This tracker is public, so **do not post personal information**
+        (names, email or IP addresses, computer/user names, or paths with your Windows user name).
+        **Never post your API token.** Replace your server's IP address with something like `SERVER-IP`.
+  - type: input
+    id: version
+    attributes:
+      label: DNS Monitor version
+      placeholder: "0.1"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 24H2, 64-bit"
+    validations:
+      required: true
+  - type: input
+    id: technitium
+    attributes:
+      label: Technitium DNS Server version
+      placeholder: "15.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: connection
+    attributes:
+      label: How does DNS Monitor connect to Technitium?
+      options:
+        - HTTP (port 5380)
+        - HTTPS (port 53443)
+        - Other port or reverse proxy
+    validations:
+      required: true
+  - type: input
+    id: vocore
+    attributes:
+      label: VoCore model
+      placeholder: '5" V7B, 800x480'
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead? What does the alert pill at the top of the screen say? Steps to reproduce help a lot.
+    validations:
+      required: true
+  - type: textarea
+    id: test
+    attributes:
+      label: test.txt
+      description: Run `ShaferWareDnsMonitor.exe --test` (or tray icon > Test connection) and paste test.txt. Replace your server's IP address first.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: dnsmonitor.log
+      description: Tray icon > Open log, then paste the last 30 lines or so. Replace your server's IP address first.
+      render: text
+    validations:
+      required: false

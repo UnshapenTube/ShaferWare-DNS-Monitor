@@ -1,0 +1,9 @@
+* text=auto
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.cs text eol=crlf
+*.csproj text eol=crlf
+*.dll binary
+*.png binary
+*.jpg binary
+*.ini text eol=crlf

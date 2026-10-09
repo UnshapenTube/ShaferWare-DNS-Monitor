@@ -1,0 +1,44 @@
+ShaferWare DNS Monitor - Freeware License
+Copyright (c) 2026 ShaferWare. All rights not granted below are reserved.
+
+In this license, "the Software" means ShaferWare DNS Monitor: the program
+ShaferWareDnsMonitor.exe and the files that come with it in the official
+download, except the third-party components listed in THIRD-PARTY.txt,
+which are covered by their own licenses.
+
+1. What you may do
+   - Use the Software for free, for personal or commercial purposes, on as
+     many computers as you like.
+   - Share copies of the Software with others, as long as:
+       * you share the complete, unmodified download (the original zip or all
+         of its files exactly as provided),
+       * you do not charge anything for it, and
+       * you credit ShaferWare as the author and, where practical, link to
+         https://shaferware.com/dns-monitor.
+
+2. What you may not do
+   - Sell the Software, or charge for access to it or for distributing it.
+   - Bundle the Software with any product, service or package that is sold.
+   - Reverse engineer, decompile, disassemble or modify the Software, or
+     create works based on it, except where applicable law expressly allows
+     this despite this restriction.
+   - Remove or change this license, the copyright notice or the credits.
+
+3. No warranty
+   The Software is provided "as is", without warranty of any kind, express
+   or implied, including but not limited to the warranties of
+   merchantability, fitness for a particular purpose and non-infringement.
+   The Software connects to your DNS server, stores an API token on your
+   computer and drives a USB display. You use it entirely at your own risk.
+
+4. No liability
+   In no event will ShaferWare or the author be liable for any claim,
+   damages or other liability, whether direct, indirect, incidental,
+   special or consequential, including damage to hardware, loss of data,
+   loss of use or DNS outages, arising from or in connection with the
+   Software or its use, even if advised of the possibility of such damage.
+
+5. Ending this license
+   This license ends automatically if you break any of its terms. When it
+   ends, you must stop using and sharing the Software and delete your
+   copies.
