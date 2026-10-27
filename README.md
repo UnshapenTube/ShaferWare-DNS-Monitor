@@ -10,7 +10,7 @@ Live Technitium DNS stats on a VoCore screen, with retry-storm alerts and a real
 <p align="center">
   <a href="../../releases/latest"><strong>⬇ Download the latest version (Windows)</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://shaferware.com/dns-monitor">shaferware.com/dns-monitor</a>
+  <a href="https://shaferware.net/dns-monitor">shaferware.net/dns-monitor</a>
 </p>
 
 ![DNS Monitor on a VoCore screen: queries, blocked and cache-hit tiles, a queries-per-minute chart, server health and top lists](images/hero-1920x1080.jpg)
@@ -135,6 +135,6 @@ Use the [bug report form](../../issues/new/choose). Please include your Windows 
 - DNS Monitor is freeware: free for personal and commercial use, shared only unmodified and free of charge. See [LICENSE.txt](LICENSE.txt).
 - USB: [libusb](https://github.com/libusb/libusb) (LGPL 2.1). Details in [THIRD-PARTY.txt](THIRD-PARTY.txt).
 - Technitium, VoCore and SimHub are trademarks of their respective owners. DNS Monitor is not affiliated with any of them.
-- Also from ShaferWare: [SysDash](https://shaferware.com/sysdash), live PC stats on the same VoCore screen.
+- Also from ShaferWare: [SysDash](https://shaferware.net/sysdash), live PC stats on the same VoCore screen.
 
-Project page: **https://shaferware.com/dns-monitor**
+Project page: **https://shaferware.net/dns-monitor**

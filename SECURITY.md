@@ -6,7 +6,7 @@ If you find a security problem in ShaferWare DNS Monitor (for example, a way its
 or misused), please report it privately instead of opening a public issue:
 
 - Use **Security > Report a vulnerability** on this repository, or
-- use the contact form at https://shaferware.com/services.
+- use the contact form at https://shaferware.com/contact/.
 
 Include the DNS Monitor version, your Windows version, your Technitium version and the steps to reproduce it.
 

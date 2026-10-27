@@ -14,7 +14,7 @@ which are covered by their own licenses.
          of its files exactly as provided),
        * you do not charge anything for it, and
        * you credit ShaferWare as the author and, where practical, link to
-         https://shaferware.com/dns-monitor.
+         https://shaferware.net/dns-monitor.
 
 2. What you may not do
    - Sell the Software, or charge for access to it or for distributing it.
